@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Harrison, I work on small projects for work</div>  
+### <div align="center">I'm Harrison, I work on small projects</div>  
   
 
 💻 I am Currently working on:  
