@@ -37,7 +37,7 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://lh3.googleusercontent.com/proxy/rzaj3ymg4crVG6VsiyUH24HU-nmSccZOHVIhOJe7mRXY0QDHyM0tQt7vKEtdnnsamzVAySPclP7bgTRUR6oMOpIoE8-w-lio0Ba7Nv0JkfRa1vPbr9k" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="http://localhost:8000/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 <img style="margin: 10px" src="http://localhost:8000/skills-assets/unity.png" alt="Unity" height="50" />  
 <img style="margin: 10px" src="http://localhost:8000/skills-assets/linux-original.svg" alt="Linux" height="50" />  
