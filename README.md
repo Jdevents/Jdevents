@@ -27,47 +27,6 @@
 ❓ Ask me about anything  
   
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/proxy/rzaj3ymg4crVG6VsiyUH24HU-nmSccZOHVIhOJe7mRXY0QDHyM0tQt7vKEtdnnsamzVAySPclP7bgTRUR6oMOpIoE8-w-lio0Ba7Nv0JkfRa1vPbr9k" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" alt="Raspberry Pi" height="50" />  
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/proxy/aVXhs-ZJBXxLLmcIeWuyLLcetgo_fkmVSxHMVqtdnDfOtt0ZaIMtTZYlKlZcGx2_4KK6re5pnLkrBEE27zUKWUU3Tas3tXbdEYSxTv-Za8gcINCiVQE" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/proxy/O1gHJ5NscltVWAHYUAGFZeupSPcMn264pCb0AS2gGqxrSNcuEWIC-O7m1Le6zjp5PoyCs_nxe-K4vEsYwxE2f2cUlDt0ZVGk5Hpy8pCQsFawbcLutd4" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://cdn.auth0.com/blog/nginx-plus/nginx-logo.png" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo.jpg" alt=".NET" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/proxy/rzaj3ymg4crVG6VsiyUH24HU-nmSccZOHVIhOJe7mRXY0QDHyM0tQt7vKEtdnnsamzVAySPclP7bgTRUR6oMOpIoE8-w-lio0Ba7Nv0JkfRa1vPbr9k" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" alt="Raspberry Pi" height="50" />  
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/proxy/aVXhs-ZJBXxLLmcIeWuyLLcetgo_fkmVSxHMVqtdnDfOtt0ZaIMtTZYlKlZcGx2_4KK6re5pnLkrBEE27zUKWUU3Tas3tXbdEYSxTv-Za8gcINCiVQE" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/proxy/O1gHJ5NscltVWAHYUAGFZeupSPcMn264pCb0AS2gGqxrSNcuEWIC-O7m1Le6zjp5PoyCs_nxe-K4vEsYwxE2f2cUlDt0ZVGk5Hpy8pCQsFawbcLutd4" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://cdn.auth0.com/blog/nginx-plus/nginx-logo.png" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo.jpg" alt=".NET" height="50" />   
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/jdevents" target="_blank">
